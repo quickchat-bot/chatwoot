@@ -18,7 +18,7 @@ export default {
         account_id: 1,
         availability_status: 'offline',
         confirmed: true,
-        email: 'muhsin@quicksales.vn',
+        email: 'muhsin@chatwoot.vn',
         available_name: 'Muhsin Keloth',
         id: 21,
         name: 'Muhsin Keloth',

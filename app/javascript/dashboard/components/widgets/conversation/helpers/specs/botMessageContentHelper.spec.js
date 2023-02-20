@@ -12,9 +12,9 @@ describe('#generateBotMessageContent', () => {
   it('return correct input_email content', () => {
     expect(
       generateBotMessageContent('input_email', {
-        submitted_email: 'hello@quicksales.vn',
+        submitted_email: 'hello@chatwoot.vn',
       })
-    ).toEqual('<strong>hello@quicksales.vn</strong>');
+    ).toEqual('<strong>hello@chatwoot.vn</strong>');
   });
 
   it('return correct input_csat content', () => {
